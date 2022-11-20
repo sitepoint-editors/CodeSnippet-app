@@ -13,7 +13,7 @@ This repo contains the source code for a code snippet application built with Nex
 2. Run `npm install`
 3. Set up a FaunaDB database with a collection "codesnippet".
 4. Set up access credentials for FaunaDB and Google Cloud console in the `.env` file
-5. Run `npm run server`
+5. Run `npm run dev`
 6. Visit http://localhost:3000
 
 ## License
